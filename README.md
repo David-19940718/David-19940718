@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jack.Wang
+- 👋 Hi, I’m @David
 - 👀 I’m interested in computer vision, machine learning, and so on.
 - 🌱 I’m currently learning model deploying.
 - 💞️ I’m looking to collaborate on 
